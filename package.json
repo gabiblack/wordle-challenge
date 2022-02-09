@@ -1,0 +1,23 @@
+{
+  "name": "wordle-challenge",
+  "version": "1.0.0",
+  "description": "This is my attempt at recreating the Wordle browser game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabiblack/wordle-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabiblack/wordle-challenge/issues"
+  },
+  "homepage": "https://github.com/gabiblack/wordle-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
